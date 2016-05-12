@@ -1,0 +1,6 @@
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Interview\BalancedParentheses\BalancedParentheses\bin\Debug\BalancedParentheses.exe.config
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Interview\BalancedParentheses\BalancedParentheses\bin\Debug\BalancedParentheses.exe
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Interview\BalancedParentheses\BalancedParentheses\bin\Debug\BalancedParentheses.pdb
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Interview\BalancedParentheses\BalancedParentheses\obj\Debug\BalancedParentheses.csprojResolveAssemblyReference.cache
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Interview\BalancedParentheses\BalancedParentheses\obj\Debug\BalancedParentheses.exe
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Interview\BalancedParentheses\BalancedParentheses\obj\Debug\BalancedParentheses.pdb
